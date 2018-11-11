@@ -1,0 +1,3 @@
+10	 Lollies
+23	 Chips
+25	 Gravy
